@@ -1,0 +1,1095 @@
+Name: Sam Houston Monument Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Cockrell Butterfly Center * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Synchronity of Color - Red Type: Pokestops
+Name: Synchronity of Color - Blue Type: Pokestops
+Name: George R. Brown Type: Pokestops
+Name: Sound Discs * Type: Pokestops
+Name: Foucault Pendulum Type: Pokestops
+Name: Tyrannosaurus Rex Type: Pokestops
+Name: Megalodon Type: Pokestops
+Name: Fountain * Type: Pokestops
+Name: Pump Station Type: Pokestops
+Name: Hawkins Sculpture Walk * Type: Pokestops
+Name: Woodland Garden * Type: Pokestops
+Name: McGovern Centennial Gardens * Type: Pokestops
+Name: Pergola Walk * Type: Pokestops
+Name: McGovern Centennial Gardens * Type: Pokestops
+Name: McGovern Centennial Gardens * Type: Pokestops
+Name: McGovern Centennial Gardens * Type: Pokestops
+Name: Geode Type: Pokestops
+Name: Miller Outdoor Theatre * Type: Pokestops
+Name: Marvin Taylor Exercise Trail Type: Pokestops
+Name: Fountain at the Esplanade Type: Pokestops
+Name: Hermann Golf Course Type: Pokestops
+Name: Hermann Park Greenway Type: Pokestops
+Name: Plaza * Type: Pokestops
+Name: Pioneer Memorial Type: Pokestops
+Name: Japanese Garden * Type: Pokestops
+Name: Japanese Garden * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Macaw Cafe Type: Pokestops
+Name: Tree Sculpture Type: Pokestops
+Name: Moonscape Bench Type: Pokestops
+Name: Buddy Carruth Playground for All Children * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: African Forest Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Terrell T Waugh Tree Type: Pokestops
+Name: Accessible Trail Type: Pokestops
+Name: Beauty and Strength Type: Pokestops
+Name: Hermann Park Southeast Picnic Shelter Type: Pokestops
+Name: Brays Bayou Watershed Educational Plaque Type: Pokestops
+Name: Wild Flowers Type: Pokestops
+Name: Hermann Park Urban Forest Type: Pokestops
+Name: Wildflower Site Type: Pokestops
+Name: Hermann Park Sign Type: Pokestops
+Name: Veterans Affairs Type: Pokestops
+Name: John P McGovern Bust Type: Pokestops
+Name: Michael E. DeBakey VA Medical Center Fountain #1 Type: Pokestops
+Name: Michael E. DeBakey VA Medical Center Fountain #2 Type: Pokestops
+Name: Old US Naval Hospital Plaque Type: Pokestops
+Name: Healing Statue Type: Pokestops
+Name: Richard E. Wainerdi Flag Plaza Type: Pokestops
+Name: Red Oak Dedicated to Dr. James Harlan Steele Type: Pokestops
+Name: UTSPH Library Type: Pokestops
+Name: Sidney Chief Dauphin Memorial Fountain Type: Pokestops
+Name: Giant Tree Sculpture Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Cow Type: Pokestops
+Name: Texas Womans University Type: Pokestops
+Name: Texas Art Type: Pokestops
+Name: Nurses at UT Health Type: Pokestops
+Name: Children Playing Mural Type: Pokestops
+Name: Baker College-Housing and Dining Lot * Type: Pokestops
+Name: George R. Brown Type: Pokestops
+Name: Ley Student Center Type: Pokestops
+Name: J Sayles Leach Memorial Court Type: Pokestops
+Name: W. Edwin Bryan, Jr. Plaza Type: Pokestops
+Name: Rice University * Type: Pokestops
+Name: Physics and Astronomy Department * Type: Pokestops
+Name: Physics and Astronomy Department * Type: Pokestops
+Name: Rice Sally Port Type: Pokestops
+Name: Christ the King Type: Pokestops
+Name: Hungrys Type: Pokestops
+Name: Hanover Courtyard Type: Pokestops
+Name: Kelvin Arms Type: Pokestops
+Name: Fountain Fixture Type: Pokestops
+Name: Bike Rack * Type: Pokestops
+Name: Willy Wonka Type: Pokestops
+Name: Amazon Grill Flower Type: Pokestops
+Name: Elevation Burger Waterfall Type: Pokestops
+Name: Taco Cabana Metal Art Type: Pokestops
+Name: Picos Fountain Type: Pokestops
+Name: Carrabbas Fountain Type: Pokestops
+Name: Carrabbas Urn Type: Pokestops
+Name: Graces Fountain Type: Pokestops
+Name: Flemings Fountain Type: Pokestops
+Name: The Chocolate Bar Type: Pokestops
+Name: Auntie Changs Dumpling House Type: Pokestops
+Name: Auntie Changs #2 Type: Pokestops
+Name: St Stephens Episcopal School - Houston Type: Pokestops
+Name: University of St. Thomas Catering Type: Pokestops
+Name: Chapel of St. Basil Type: Pokestops
+Name: Robert Pace & Ada Doherty Library Type: Pokestops
+Name: Brooklyn Athletic Club Type: Pokestops
+Name: Mural Type: Pokestops
+Name: Holy Rosary Church Type: Pokestops
+Name: Barack Obama Mural Type: Pokestops
+Name: Breakfast Klub Mural Type: Pokestops
+Name: Tacos A Go-Go Type: Pokestops
+Name: My Flaming Heart Type: Pokestops
+Name: Ensemble Theater Type: Pokestops
+Name: Lord of the Streets Episcopal Church Type: Pokestops
+Name: Trinity Episcopal Church Type: Pokestops
+Name: HCC Administration Building Type: Pokestops
+Name: American Energy Relief Type: Pokestops
+Name: Eyeful Art Type: Pokestops
+Name: Invaders Spotted Art Installation Type: Pokestops
+Name: Wall Art Type: Pokestops
+Name: Shades Mural Type: Pokestops
+Name: Crone of Fannin Type: Pokestops
+Name: Fossilized Houston Type: Pokestops
+Name: Leons Lounge Type: Pokestops
+Name: Sheridan Apartments Type: Pokestops
+Name: Potbelly Louisiana St Submarine Type: Pokestops
+Name: The Houston Fire Museum Type: Pokestops
+Name: Flying Pig Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Lamar Park Fountain Type: Pokestops
+Name: Lamar Park Type: Pokestops
+Name: Lamar Park Fountain Type: Pokestops
+Name: Grace Lutheran Church Type: Pokestops
+Name: Gargoyle Type: Pokestops
+Name: KoolAid Man Type: Pokestops
+Name: Clock Tower Type: Pokestops
+Name: Lion Fountain Type: Pokestops
+Name: A Sunday Afternoon Torchys Inspired Painting Type: Pokestops
+Name: Butterfly Art Type: Pokestops
+Name: Irish Pub Kenneallys Type: Pokestops
+Name: Barnabys Cafe Type: Pokestops
+Name: River Oaks Theatre Type: Pokestops
+Name:  Type: Pokestops
+Name: Autry Park Type: Pokestops
+Name: Justice For All Mural Type: Pokestops
+Name: Houston Center for the Arts Type: Pokestops
+Name: Star Fountain Type: Pokestops
+Name: Waugh Drive Bat Colony Type: Pokestops
+Name: Spotts Park Entrance Arch Type: Pokestops
+Name: Shaper Triangle Fountain Type: Pokestops
+Name: Buffalo Bayou Walk North Trail Sign Type: Pokestops
+Name: Memorial Drive Extension Structure IV Type: Pokestops
+Name: Star Pizza Type: Pokestops
+Name: Washington Cemetery Historical Marker Type: Pokestops
+Name: William Gammel Type: Pokestops
+Name: Historic Washington Cemetery Type: Pokestops
+Name: Fonde Recreation Center * Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: Sam Houston Park Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: Sam Houston Park * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Houston City Hall Annex * Type: Pokestops
+Name: The Hobby Center for the Performing Arts Type: Pokestops
+Name: Tranquility Park * Type: Pokestops
+Name: Tranquility Park * Type: Pokestops
+Name: Tranquility Park * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: USPS Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Jones Hall for the Performing Arts * Type: Pokestops
+Name: Jones Hall for the Performing Arts * Type: Pokestops
+Name: Jones Hall for the Performing Arts * Type: Pokestops
+Name: Hearst Media Houston * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: The Rice Type: Pokestops
+Name: The Rice * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: The Beacon * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Houston Union Station Type: Pokestops
+Name: Minute Maid Park Baseballs Type: Pokestops
+Name: Orange Train at Minute Maid Park Type: Pokestops
+Name: Astro Mickey Type: Pokestops
+Name: Tribute to Teamwork Type: Pokestops
+Name: Welcome to Texas Type: Pokestops
+Name: Minute Maid Park Baseballs #6 Type: Pokestops
+Name: Play Ball! Type: Pokestops
+Name: Bell Tower at Minute Maid Park Type: Pokestops
+Name: Houstons First Retractable Stadium Roof Type: Pokestops
+Name: Minute Maid Park Train Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Mist Tree Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Embassy Suites Houston-Downtown * Type: Pokestops
+Name: Four Seasons Hotel Houston * Type: Pokestops
+Name: Hevrdejs Butterfly Garden Type: Pokestops
+Name: George R. Brown Convention Center * Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Discovery Green * Type: Pokestops
+Name: Hilton Americas-Houston * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Toyota Center * Type: Pokestops
+Name: Toyota Center * Type: Pokestops
+Name: Toyota Center * Type: Pokestops
+Name: Root Square * Type: Pokestops
+Name: Root Square * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Imagination Campus * Type: Pokestops
+Name: Art Hous Type: Pokestops
+Name: The Park People Type: Pokestops
+Name: Safety Follows Wisdom Monument Type: Pokestops
+Name: His Lifehouse Ministries Type: Pokestops
+Name: Dream Big Bench Type: Pokestops
+Name: Felix Fraga Academic Center #2 Type: Pokestops
+Name: HCC Felix Fraga Campus Type: Pokestops
+Name: Mural by Wiley & Dang Type: Pokestops
+Name: City of Houston: Flores Library Type: Pokestops
+Name: Art at Flores Library Type: Pokestops
+Name: Mighty Redeemer Church Type: Pokestops
+Name: Iglesia de Cristo Bienvenidos Rom 16.16 Type: Pokestops
+Name: La Virgin De Guadalupe Type: Pokestops
+Name: Barber Shop Mural Type: Pokestops
+Name: Ripley House Tree Mural Type: Pokestops
+Name: El Tiempo Cantina Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Moon Tower Inn Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Ninfas Type: Pokestops
+Name: Settegast Field Dedication Type: Pokestops
+Name: Settegast Park Community Mural Type: Pokestops
+Name: Albert Einstein Memorial Tile Type: Pokestops
+Name: Settegast Park Mini Ampitheatre Type: Pokestops
+Name: Water Flowers Type: Pokestops
+Name: Settegast Park Type: Pokestops
+Name: Historical Harrisburg Boulevard Type: Pokestops
+Name: Just Smile Bench Type: Pokestops
+Name: Tree Mural At Coffee Plant Station Type: Pokestops
+Name: Voodoo Queen Mural Type: Pokestops
+Name: Super Happy Fun Land Mural Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: 3rd Church of Christ the Maker Type: Pokestops
+Name: Kaffeine Mural Type: Pokestops
+Name: Spring Has Sprung Type: Pokestops
+Name: Pyramid Mural Type: Pokestops
+Name: Live Your Life Mural Type: Pokestops
+Name: Bell Park Type: Pokestops
+Name: Chelsea Bird Bath Fairy Type: Pokestops
+Name: Main Street Theatre Type: Pokestops
+Name: Human Hamster Wheel Type: Pokestops
+Name: Baskets Type: Pokestops
+Name: Houston Center for Contemporary Craft Type: Pokestops
+Name: Metal Onion Type: Pokestops
+Name: HCC Building Type: Pokestops
+Name: TSU Catholic Newman Center Type: Pokestops
+Name: Riverside Park Type: Pokestops
+Name: St. Marys Catholic Church Type: Pokestops
+Name: St. Mary Statue Type: Pokestops
+Name: Riverside Terrace Cafe Type: Pokestops
+Name: Bennett Mills Park Type: Pokestops
+Name: Mac Gregor Park * Type: Pokestops
+Name: Mac Gregor Park * Type: Pokestops
+Name: Mac Gregor Park * Type: Pokestops
+Name: Mac Gregor Park * Type: Pokestops
+Name: Mac Gregor Park Type: Pokestops
+Name: Ingrando Park Type: Pokestops
+Name: Melcher Library Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: CT Church * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Forest Park Cemetery (Entrance) Type: Pokestops
+Name: Mason Community Center Type: Pokestops
+Name: Mason Park * Type: Pokestops
+Name: Mason Park * Type: Pokestops
+Name: Dinner Bell Cafe Type: Pokestops
+Name: US Post Office Type: Pokestops
+Name: Broadmoor-Kretschmar Park Type: Pokestops
+Name: Eastwood Transit Center Type: Pokestops
+Name: Houston Christian Assembly Type: Pokestops
+Name: East End Mural Type: Pokestops
+Name: Bird Poles Type: Pokestops
+Name: Tlaquepaque Mural Type: Pokestops
+Name: Dog Statue Type: Pokestops
+Name: Matamoros Meat Market * Type: Pokestops
+Name: Cullen Park Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Emancipation Park Type: Pokestops
+Name: Lofts Type: Pokestops
+Name: Baldwin Park * Type: Pokestops
+Name: Baldwin Park #2 Type: Pokestops
+Name: Dog Park Type: Pokestops
+Name: St. Joseph House Type: Pokestops
+Name: HCC Campus Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Station Museum of Contemporary Art * Type: Pokestops
+Name: Mural Type: Pokestops
+Name: South Main Baptist Sign Type: Pokestops
+Name: Mural Type: Pokestops
+Name: St. Annes Father William Bernard OToole Memorial Type: Pokestops
+Name: St. Annes Catholic Church Type: Pokestops
+Name: St. Annes William Gibbons Memorial Type: Pokestops
+Name: Flowery Carport Type: Pokestops
+Name: Cougar Place Mural Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: McElhinney Hall Type: Pokestops
+Name: Cullen Fountain Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: C. T. Bauer College of Business Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: Michael J. Cemo Hall * Type: Pokestops
+Name: Chinese Star Restaurant Type: Pokestops
+Name: The Nook Cafe Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: William R Jenkins Architecture & Art Library * Type: Pokestops
+Name: Blaffer Art Museum Type: Pokestops
+Name: The University of Houston-Moores School of Music * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: The University of Houston-Moores School of Music * Type: Pokestops
+Name: Athletic Center Type: Pokestops
+Name: Athletic Center Type: Pokestops
+Name: Athletic Center Type: Pokestops
+Name: Athletic Center Type: Pokestops
+Name: Christian Faith Missionary Church Type: Pokestops
+Name: Sphere Fountain Type: Pokestops
+Name: Hard Rock Cafe Type: Pokestops
+Name: Hermann Square * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Antioch Missionary Baptist Church * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name:  Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: First Methodist Houston * Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Planter and Stems Structure Type: Pokestops
+Name: Metal Art Structure Type: Pokestops
+Name: Margaret Bell Houston Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Water Screen Sculpture Type: Pokestops
+Name: Main Street Square Type: Pokestops
+Name: Main Street Square Aloe Type: Pokestops
+Name: Cheesy Artwork Type: Pokestops
+Name: 905 Main Street Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Bibleway Missionary Baptist Church Type: Pokestops
+Name: African American Library Type: Pokestops
+Name: Metal Dragon Sculpture Type: Pokestops
+Name: Spoetzl Brewery Type: Pokestops
+Name: Bagby Park * Type: Pokestops
+Name: Midtown Glass Flags Type: Pokestops
+Name: Oval Fountain Type: Pokestops
+Name: Lady Between the Flags Type: Pokestops
+Name: Barnabys Type: Pokestops
+Name: Byzantio Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Stude Community Center Type: Pokestops
+Name: Japanese Garden * Type: Pokestops
+Name: Japanese Garden * Type: Pokestops
+Name: Baker Planetarium Type: Pokestops
+Name: McGovern Centennial Gardens * Type: Pokestops
+Name: McGovern Centennial Gardens Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Wortham Fountain in TMC Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: TIRR Memorial Hermann * Type: Pokestops
+Name: Baylor College of Medicine * Type: Pokestops
+Name: Baylor College of Medicine * Type: Pokestops
+Name: Texas Medical Center * Type: Pokestops
+Name: Texas Medical Center Commons Type: Pokestops
+Name: Radiation Treatment Center * Type: Pokestops
+Name: Captain Benton F Love Jr Type: Pokestops
+Name: Jose M. Trulio Type: Pokestops
+Name: Hummingbird Type: Pokestops
+Name: Dr. Alexander Wang Memorial Type: Pokestops
+Name: Flame by Van Vranken 1991 Type: Pokestops
+Name: LeRoy Melcher Jr Memorial Fountain Type: Pokestops
+Name: Charles A. LeMaistre Type: Pokestops
+Name: Lesa A. Nelson Sanctuary Type: Pokestops
+Name: Bible Statue Type: Pokestops
+Name: TMC Transit Center Type: Pokestops
+Name: HCC Zen Garden Type: Pokestops
+Name: Fountains at UT Health Science Center Type: Pokestops
+Name: Steer Sculpture at UTHSC Type: Pokestops
+Name: Institute of Biosciences and Technology Type: Pokestops
+Name: Cow Type: Pokestops
+Name: Magnet Garden at the Womens Pavilion Type: Pokestops
+Name: Ginger Rhinestone Type: Pokestops
+Name: A Symbol of Excellence Type: Pokestops
+Name: Denton Cooley Memorial Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Planter Type: Pokestops
+Name: The Bluebirds Type: Pokestops
+Name: Brown Memorial Plaque Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: The Bathers Type: Pokestops
+Name: Lisa Boak Hogan Memorial Crape Myrtle Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name: Woman with Dove Type: Pokestops
+Name: A Good Physician Type: Pokestops
+Name: UTHSC Medical School Type: Pokestops
+Name: Edgar Odell Lovett College * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name:  Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Tea Mural Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: The Houston Zoo Type: Pokestops
+Name: Hermann Park * Type: Pokestops
+Name: Tree Sculpture Type: Pokestops
+Name: Wildflowers on the Bayou Type: Pokestops
+Name: Beauty and Strength Type: Pokestops
+Name: Good Hope Missionary Baptist Church Historic Marker Type: Pokestops
+Name: St. James Episcopal Church Type: Pokestops
+Name: Floss Art Type: Pokestops
+Name:  Type: Pokestops
+Name: Freedmans Town Plaque Type: Pokestops
+Name: Little League Field Type: Pokestops
+Name: Khun Kay Thai Cafe Fountain Type: Pokestops
+Name: Eye Wall Mural Type: Pokestops
+Name: Zenful Mural Type: Pokestops
+Name: Geometric Sculpture Type: Pokestops
+Name: Museum of Fine Arts, Houston Type: Pokestops
+Name: Museum of Fine Arts, Houston Type: Pokestops
+Name:  Type: Pokestops
+Name: Holocaust Museum Type: Pokestops
+Name: Clayton Library Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Roberts Art Cow Type: Pokestops
+Name: Shiva Type: Pokestops
+Name: Rice Temple Baptist Church Type: Pokestops
+Name: Doggie Mural Type: Pokestops
+Name:  Type: Pokestops
+Name: Fountains at Gramercy Type: Pokestops
+Name: Bellefontaine Virgin & Vases Type: Pokestops
+Name:  Type: Pokestops
+Name: Industrial Flowers Type: Pokestops
+Name: Post Office Type: Pokestops
+Name: Captain Bennys Type: Pokestops
+Name: Holly Hall Eagle Type: Pokestops
+Name:  Type: Pokestops
+Name: Beavers Type: Pokestops
+Name:  Type: Pokestops
+Name: Houston Fire Station 8 Type: Pokestops
+Name:  Type: Pokestops
+Name: (unknown) Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Market Square Park * Type: Pokestops
+Name: Market Square Park * Type: Pokestops
+Name: Market Square Park * Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Houston Public Library - Central Library Type: Pokestops
+Name: Houston Public Library (Central Library) - Circles Statuary Type: Pokestops
+Name: Houston Public Library - Houston Metropolitan Research Center (Julia Ideson Building) Type: Pokestops
+Name: Houston Public Library (Julia Ideson Building) - Lee Jamail Plaza Type: Pokestops
+Name: Houston Public Library (Julia Ideson Building) - Ruth Pershing Uhler Mural Type: Pokestops
+Name:  Type: Pokestops
+Name: Historical Marker * Type: Pokestops
+Name: Shave * Type: Pokestops
+Name: The Refinery Burgers & Whiskey Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Harvey Homan Type: Pokestops
+Name:  Type: Pokestops
+Name: U.M.W. Scottish Rite Grand Lodge Type: Pokestops
+Name: Mt. Carmel Missionary Baptist Church Sign Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: New Zion Temple Church Type: Pokestops
+Name: Wiley Park Type: Pokestops
+Name: Wiley Park Type: Pokestops
+Name:  Type: Pokestops
+Name: Brick and Jasmine Mural Type: Pokestops
+Name: Baby Barnabys Cafe Type: Pokestops
+Name: Head Sculpture 1 Type: Pokestops
+Name: Damask Wall Art Type: Pokestops
+Name: Metal Sculpture Type: Pokestops
+Name: Tori Arch Gate Type: Pokestops
+Name: Metal Tree of Gears Type: Pokestops
+Name: Texas Junk Type: Pokestops
+Name: Lankford Grocery Type: Pokestops
+Name: Lambda Home Base Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Vincents Water Fountain Type: Pokestops
+Name: Oscar Newton Painting Type: Pokestops
+Name: JM Cain Tree Stone Type: Pokestops
+Name: Magnolia Cemetery Historical Marker Type: Pokestops
+Name: Financial Planning Face Art Type: Pokestops
+Name: Wortham Building Garden Type: Pokestops
+Name: Gus Wortham Mausoleum Type: Pokestops
+Name: Johnny Steele Dog Park Type: Pokestops
+Name: American General Center Fountain Type: Pokestops
+Name: Wall Mural at American General Center Type: Pokestops
+Name: Black Granite Statue Type: Pokestops
+Name: Daniel Cynicis Painting Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Cullinan Park Sign Type: Pokestops
+Name:  Type: Pokestops
+Name: Reveille Park * Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Stude Community Center Type: Pokestops
+Name: Woodland Park * Type: Pokestops
+Name:  Type: Pokestops
+Name: Cleveland Park * Type: Pokestops
+Name: Spotts Park * Type: Pokestops
+Name: Spotts Park * Type: Pokestops
+Name: Spotts Park * Type: Pokestops
+Name: Old Fire Station 3 Type: Pokestops
+Name: Economic Shift Mural Type: Pokestops
+Name: Positive Negative Colors Mural Type: Pokestops
+Name: Mallalieu United Methodist Church Type: Pokestops
+Name: New Hope Baptist Church Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: The Core Type: Pokestops
+Name: First Christian Church Type: Pokestops
+Name: Braeswood Condo Fountain Type: Pokestops
+Name:  Type: Pokestops
+Name: East End Mural Type: Pokestops
+Name: Jaguar Jungle Mural Type: Pokestops
+Name: Eastwood Park * Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Art Square Type: Pokestops
+Name: Metal Art Type: Pokestops
+Name:  Type: Pokestops
+Name: Star of Hope Donation and Distribution Center Type: Pokestops
+Name: Taco Truck Art Mural Type: Pokestops
+Name: Brothers Taco House Type: Pokestops
+Name: Tim Hootman Graffiti Type: Pokestops
+Name: St. Nicholass Covenant Type: Pokestops
+Name: St. Nicholass Church Type: Pokestops
+Name: Blessed Mother Shrine at St. Nicholas Church Type: Pokestops
+Name: Temple Gate Type: Pokestops
+Name: Texas Art Asylum Type: Pokestops
+Name: Welcome to EADO Type: Pokestops
+Name:  Type: Pokestops
+Name: St John Missionary Baptist Church Plaque Type: Pokestops
+Name: Scooter Graffiti Type: Pokestops
+Name: Berean Seventh Day Adventist Church Type: Pokestops
+Name: St John Missionary Baptist Church Type: Pokestops
+Name: St John Missionary Baptist Church Type: Pokestops
+Name:  Type: Pokestops
+Name: Smith Library Type: Pokestops
+Name: A.D. Bruce Religion Center Type: Pokestops
+Name: Oberholtzer Hall Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: Cube Geysers Type: Pokestops
+Name: Bates Hall Type: Pokestops
+Name: Genki Type: Pokestops
+Name: Taub Residency Hall Type: Pokestops
+Name: Affirmative Action Building Type: Pokestops
+Name: University of Houston Cougar Band Memorial Type: Pokestops
+Name: Cougar Village Type: Pokestops
+Name: Moody Towers 3D Art Type: Pokestops
+Name: Cougar Village 2 Mosaic Type: Pokestops
+Name: The Statue of Four Lies Type: Pokestops
+Name: Student Service Center 1 Type: Pokestops
+Name: American Star Type: Pokestops
+Name: Lynn Eusan Memorial Park Type: Pokestops
+Name: University of Houston Seal Type: Pokestops
+Name: UH Hilton Atrium Type: Pokestops
+Name: Stephen Power Farish Hall Building Type: Pokestops
+Name: Sesquicentennial Roses Type: Pokestops
+Name: 9/11 World Trade Centers Memorial Type: Pokestops
+Name: Science Building Type: Pokestops
+Name: Mujer Con Las Manos Cruzadas Type: Pokestops
+Name: Double Physchomie, 2005 Type: Pokestops
+Name: University Welcome Center Type: Pokestops
+Name: Bronze Cougar #2 Type: Pokestops
+Name: University of Houston Framework Map Type: Pokestops
+Name: Ezekiel W Cullen Building Type: Pokestops
+Name: Old Science Building Type: Pokestops
+Name: Roy G Cullen Building Type: Pokestops
+Name: Roy Cullen Memorial Type: Pokestops
+Name: Agnes Arnold Hall Type: Pokestops
+Name: Twisted Drill Type: Pokestops
+Name: Phillip Guthrie Hoffman Memorial Hall Type: Pokestops
+Name: University of Houston * Type: Pokestops
+Name: Frenchys Chicken * Type: Pokestops
+Name: Wheeler Avenue Baptist Church * Type: Pokestops
+Name: The Firemans Prayer Type: Pokestops
+Name: William A. Lawson Christian Life Center Type: Pokestops
+Name: Hermann Park Greenway Type: Pokestops
+Name:  Type: Pokestops
+Name: Painted Dental Place Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: HCC Southeast Main Entrance Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Charles H Milby Park * Type: Pokestops
+Name: US Post Office Type: Pokestops
+Name: Peiser Park Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Pineview Triangle Type: Pokestops
+Name: El Jardin Dome Type: Pokestops
+Name: Rosa De Sharon Type: Pokestops
+Name: Bethel Church Type: Pokestops
+Name: Magnolia Park Type: Pokestops
+Name: De Zavala Park Type: Pokestops
+Name: Harrisburg Type: Pokestops
+Name: Compass Bank Type: Pokestops
+Name: Hidalgo Park Type: Pokestops
+Name: Hidalgo Park Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Fountain Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Public Metal Sculpture Type: Pokestops
+Name: Throne of Resistance Statue Type: Pokestops
+Name: Houston Public Library - Freed-Montrose Type: Pokestops
+Name: Wooden Christ Statue Type: Pokestops
+Name: The Black Labrador Type: Pokestops
+Name: Guardian Relief Type: Pokestops
+Name: Lion Gates Type: Pokestops
+Name: US Post Office University Station Type: Pokestops
+Name: Roots Mural Type: Pokestops
+Name: Lowbrow Mural Type: Pokestops
+Name: Cy Twombly Gallery Type: Pokestops
+Name: The Menil Collection Type: Pokestops
+Name: Sand Snake Type: Pokestops
+Name: Loop D Loop Type: Pokestops
+Name: Houston Center For Photography Type: Pokestops
+Name: Watercolor Art Society Type: Pokestops
+Name: Big Red Jack Type: Pokestops
+Name: The Neon Gallery Type: Pokestops
+Name: Menil Park Sculpture Type: Pokestops
+Name: University of St. Thomas Type: Pokestops
+Name: Moran Center Type: Pokestops
+Name: St. Thomas Wooden Statue Type: Pokestops
+Name: James Irvin Memorial Tree Type: Pokestops
+Name: John H. Crooker University Center Type: Pokestops
+Name: James M. McKinley Memorial Type: Pokestops
+Name: Cullen Music Hall Type: Pokestops
+Name: Robertson Science Hall St. Thomas University Type: Pokestops
+Name: Cross Pool at Meditation Garden Type: Pokestops
+Name: In Memory of Dr Elizabeth Ann Peavy Type: Pokestops
+Name: Wind Sculpture Type: Pokestops
+Name: Dedication of Lloyd Posey Webre, Sr. Type: Pokestops
+Name: William J. Corbett Memorial Plaque Type: Pokestops
+Name: Will Weber Field Type: Pokestops
+Name: Dunlavy Fountain Type: Pokestops
+Name: Mandell Bridge Type: Pokestops
+Name: West Alabama Ice House Type: Pokestops
+Name: Houston Museum-African American Culture Type: Pokestops
+Name: Covenant Baptist Church Type: Pokestops
+Name: Flamingo Sculpture Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Amys Ice Creams Type: Pokestops
+Name: US Post Office Type: Pokestops
+Name: 59 Diner Type: Pokestops
+Name: Star Pizza Type: Pokestops
+Name: Lilly Grove Missionary Baptist Church Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Welcome Fountain Type: Pokestops
+Name: Wave Sculpture Type: Pokestops
+Name: Houston Maritime Museum Type: Pokestops
+Name: TOH Running Man Type: Pokestops
+Name: Smith Lands Rail Station Type: Pokestops
+Name: Valencia Fountain Type: Pokestops
+Name: Surgery Statue Type: Pokestops
+Name: The Flame Type: Pokestops
+Name: University of Texas Dental School Type: Pokestops
+Name:  Type: Pokestops
+Name: Heart at Scrubs and Beyond Type: Pokestops
+Name:  Type: Pokestops
+Name: Schweppe Park Type: Pokestops
+Name: US Post Office Type: Pokestops
+Name: Guys Meat Market Type: Pokestops
+Name: City of Refuge Church Type: Pokestops
+Name: Down Town Transit Center Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Art League Houston Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: Rice Gate Type: Pokestops
+Name: Moody Towers Type: Pokestops
+Name: Mt Vernon United Methodist Church Type: Pokestops
+Name: Steeple/Pleasant Grove Church Type: Pokestops
+Name: True Vine Missionary Baptist Type: Pokestops
+Name: Island of Hope Church Type: Pokestops
+Name: Hand of 5th Ward Type: Pokestops
+Name:  Type: Pokestops
+Name: Wheatley Barber Shop Type: Pokestops
+Name: Lyons Unity Missionary Baptist Church Type: Pokestops
+Name: Fruits of Fifth Ward Type: Pokestops
+Name:  Type: Pokestops
+Name: Brewster Park Type: Pokestops
+Name: Pleasant Hill Baptist Church Type: Pokestops
+Name: Mount Olive Baptist Church Type: Pokestops
+Name: Fifth Ward Multi Service Center Type: Pokestops
+Name: Rockets Park Type: Pokestops
+Name: Latter Day Deliverance Revival Type: Pokestops
+Name: Miles Chapel Type: Pokestops
+Name: Cane River Gardens Type: Pokestops
+Name: East Orange AME Church Type: Pokestops
+Name: 5th Ward Church of Christ Type: Pokestops
+Name: Greater Union Baptist Church Type: Pokestops
+Name:  Type: Pokestops
+Name: Catherine Adams Park Type: Pokestops
+Name: Boyce-Dorian Park Type: Pokestops
+Name: Julia C Hester House Sports Building Type: Pokestops
+Name:  Type: Pokestops
+Name:  Type: Pokestops
+Name: 5th Ward Transit Center Type: Pokestops
+Name: Welcome to the historic Fifth Ward Type: Pokestops
+Name: Water Tower * Type: Pokestops
+Name:  Type: Pokestops
+Name: Selena Park Entrance Sign Type: Pokestops
+Name: Holy Statue Type: Pokestops
+Name: Holy Statue #2 Type: Pokestops
+Name:  Type: Pokestops
+Name: Houston Public Library - Carnegie Type: Pokestops
+Name: Wier Park * Type: Pokestops
+Name: Chipotle Fountain Type: Pokestops
+Name: (unknown) Type: Gyms
+Name: Miller Outdoor Theatre * Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Judson W Robinson Center Mural Type: Gyms
+Name: Bill Coats Bridge Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Waterside Cafe Type: Gyms
+Name: Sail Park Type: Gyms
+Name: Water Nymph Type: Gyms
+Name: Wortham Park Type: Gyms
+Name: 1MC Bldg Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Neils Bahr Type: Gyms
+Name: BBVA Compass Stadium Type: Gyms
+Name: Harris County 1910 Courthouse Type: Gyms
+Name: James A. Baker Monument Type: Gyms
+Name: Stude Park Sculpture Type: Gyms
+Name: Moody Park #2 Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Buffalo Bayou Park Type: Gyms
+Name: Tolerance (Plensa) Statues Type: Gyms
+Name: Whole Foods Cistern Type: Gyms
+Name: (unknown) Type: Gyms
+Name: The Mount * Type: Gyms
+Name: Color Changing Fountain Type: Gyms
+Name: Pepe Le Pew Type: Gyms
+Name: Little Woodrows Type: Gyms
+Name: Third Planet Sci-Fi Superstore Type: Gyms
+Name: Montrose HEB Type: Gyms
+Name: Broken Obelisk Type: Gyms
+Name: University of Saint Thomas Type: Gyms
+Name: Metal Triangle Type: Gyms
+Name: Montrose Center Type: Gyms
+Name: Siphon Coffee Type: Gyms
+Name: Holleys Type: Gyms
+Name: Niko Nikos Type: Gyms
+Name: Rudyards Type: Gyms
+Name: First Cumberland Presbyterian Church Type: Gyms
+Name: Little Watch Shop Type: Gyms
+Name: Houston City Hall Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Discovery Green * Type: Gyms
+Name: Eastwood Park Type: Gyms
+Name: Fannin Metro Type: Gyms
+Name: Baldwin Park Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Graffiti of God Type: Gyms
+Name: Gallery Sonja Roesch Type: Gyms
+Name: Crossroads Cafe II Type: Gyms
+Name: Midtown Dog Park Type: Gyms
+Name: METRO Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Masonic Temple Type: Gyms
+Name: Big Alex Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Pronto Fountain Type: Gyms
+Name: West Webster Street Park Type: Gyms
+Name: Rutherford B H Yates Museum Type: Gyms
+Name: Bethel Church Park Type: Gyms
+Name: Paper Street CrossFit * Type: Gyms
+Name: St. Stephens Episcopal Church and School Type: Gyms
+Name: Mandell Park Type: Gyms
+Name: Ervan Chew Park Type: Gyms
+Name: Nans Games & Comics Too Type: Gyms
+Name: Goode Company Seafood Type: Gyms
+Name: (unknown) Type: Gyms
+Name: UH Football Stadium North Entrance Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: The Eternal Flame of Service Type: Gyms
+Name: Lamar Fleming Jr. Building Type: Gyms
+Name: University of Houston * Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Michael Jackson Memorial Art Type: Gyms
+Name: Christian Home Missionary Baptist Type: Gyms
+Name: Christian Hope Baptist Church Type: Gyms
+Name: St Emmanuel Baptist Church Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Oliver Chapel Baptist Church Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Masonic Temple Type: Gyms
+Name: Health is Wealth Mural Type: Gyms
+Name: Greetings from 3rd Ward Mural Type: Gyms
+Name: Christian Faith Missionary Baptist Church Type: Gyms
+Name: Good Hope Missionary Baptist Church Type: Gyms
+Name: Bennett Mills Park Type: Gyms
+Name: Married Ladies Social, Art & Charity Club of America Type: Gyms
+Name: Duncan Hall Ceiling Type: Gyms
+Name: Shell Auditorium * Type: Gyms
+Name: The Shepherd School of Music * Type: Gyms
+Name: Bobby May Plaza Type: Gyms
+Name: Methodist Hospital Type: Gyms
+Name: Prima Pasta Italian Restaurant Type: Gyms
+Name: Barclay Eagle Type: Gyms
+Name: Braeswood Park Type: Gyms
+Name: Kelsey-Seybold Fountain Type: Gyms
+Name: West U Park Type: Gyms
+Name: In Memory of Espanola Kemp Type: Gyms
+Name:  Type: Gyms
+Name: Taco Cabana Type: Gyms
+Name:  Type: Gyms
+Name:  Type: Gyms
+Name: MD Anderson Granite Ball Type: Gyms
+Name:  Type: Gyms
+Name: The Greenbriar Fountain Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Angel Statue Type: Gyms
+Name: McGovern Historical Center of The TMC Library * Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Tim Hootman Law Office Statues Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Islamic Dawah Center * Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Tolerance Statues Type: Gyms
+Name: University of Houston Downtown: Shea Street Building * Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Bethlehem Baptist Church Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Station Theater Type: Gyms
+Name: Wiley Mural Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Art Car Museum Type: Gyms
+Name: Knox Park Type: Gyms
+Name: Cleveland Park Type: Gyms
+Name: St. Thomas High School Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Ebenezer Baptist Church Type: Gyms
+Name: Galilee Baptist Church Type: Gyms
+Name: Lyons Jam Park Type: Gyms
+Name: Peacock Records Type: Gyms
+Name: First Shiloh Church Type: Gyms
+Name: Kress Lyons Park * Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Korean Hanbit Church Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Mason Park Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Immaculate Heart of Mary Church Type: Gyms
+Name: Hidalgo Park Type: Gyms
+Name: Painted Bus Stop Type: Gyms
+Name: Lutheran Church-The Redeemer Type: Gyms
+Name: Broadmoor- Kretschmar Park Type: Gyms
+Name: (unknown) Type: Gyms
+Name: Peiser Park Type: Gyms
+Name: Charles H Milby Park Type: Gyms
+Name: Frida Kahlo Mural Type: Gyms
+Name: Cecils Pub Houston Type: Gyms

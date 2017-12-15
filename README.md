@@ -23,11 +23,10 @@ Just type the following in the terminal window where the files are located to st
 ### Table Creation for OpenStreetMap data in the Format: ###
 
 Row Name  | 'Type:Type' |  ‘ID:ID'  |  'Coordinate:Lat' |  'Coordinate:Lon'  
---- | --- | --- | ---
 
 ### Table Creation for Pokemon Go data in the Format: ###
 
-Row Name                  'Type:Type'   'Name:Name'    'Coordinate:Lat'   'Coordinate:Lon'   Coordinate:Height'
+Row Name  | 'Type:Type' |  'Name:Name'  |  'Coordinate:Lat' | 'Coordinate:Lon' | 'Coordinate:Height'
 
 ## Queries Written: ##
 1.)	Finding restaurants that have Pokestops or Gyms nearby around(within 5 miles) University of Houston (Main Campus - Coordinate [[29.7199489,-95.3422334]])

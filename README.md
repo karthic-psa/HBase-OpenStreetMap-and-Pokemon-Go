@@ -22,7 +22,8 @@ Just type the following in the terminal window where the files are located to st
 
 ### Table Creation for OpenStreetMap data in the Format: ###
 
-Row Name                  'Type:Type'   ‘ID:ID'    'Coordinate:Lat'   'Coordinate:Lon'  
+Row Name  | 'Type:Type' |  ‘ID:ID'  |  'Coordinate:Lat' |  'Coordinate:Lon'  
+--- | --- | --- | ---
 
 ### Table Creation for Pokemon Go data in the Format: ###
 
